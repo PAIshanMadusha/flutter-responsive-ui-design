@@ -27,13 +27,13 @@ This project is a Flutter application that demonstrates a responsive UI design w
 ### Tablet View
 ---
 <div align="center">
-  <img src="https://github.com/user-attachments/assets/942570a9-243a-4d55-8169-56ddec9a7177" alt="Desktop View 1" width="80%">
+  <img src="https://github.com/user-attachments/assets/942570a9-243a-4d55-8169-56ddec9a7177" alt="Desktop View 1" width="70%">
 </div>
 
 ### Mobile View
 ---
 <div align="center">
-  <img src="https://github.com/user-attachments/assets/2f2d8975-4a96-4920-831f-51f5e3c2ead6" alt="Mobile View 1" width="200">
-  <img src="https://github.com/user-attachments/assets/d7ea79fc-11c0-40e0-ac8d-68ed7ebae558" alt="Mobile View 2" width="200">
-  <img src="https://github.com/user-attachments/assets/68c2d87c-f0b7-45c1-9fb7-9e523b259b92" alt="Mobile View 3" width="200">
+  <img src="https://github.com/user-attachments/assets/2f2d8975-4a96-4920-831f-51f5e3c2ead6" alt="Mobile View 1" width="223">
+  <img src="https://github.com/user-attachments/assets/d7ea79fc-11c0-40e0-ac8d-68ed7ebae558" alt="Mobile View 2" width="223">
+  <img src="https://github.com/user-attachments/assets/68c2d87c-f0b7-45c1-9fb7-9e523b259b92" alt="Mobile View 3" width="220">
 </div>
