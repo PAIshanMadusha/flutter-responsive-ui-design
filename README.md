@@ -33,9 +33,9 @@ This project is a Flutter application that demonstrates a responsive UI design w
 ### Mobile View
 ---
 <div align="center">
-  <img src="https://github.com/user-attachments/assets/2f2d8975-4a96-4920-831f-51f5e3c2ead6" alt="Mobile View 1" width="223">
+  <img src="https://github.com/user-attachments/assets/2f2d8975-4a96-4920-831f-51f5e3c2ead6" alt="Mobile View 1" width="213">
   <br><br>
-  <img src="https://github.com/user-attachments/assets/d7ea79fc-11c0-40e0-ac8d-68ed7ebae558" alt="Mobile View 2" width="224">
+  <img src="https://github.com/user-attachments/assets/d7ea79fc-11c0-40e0-ac8d-68ed7ebae558" alt="Mobile View 2" width="214">
   <br><br>
-  <img src="https://github.com/user-attachments/assets/68c2d87c-f0b7-45c1-9fb7-9e523b259b92" alt="Mobile View 3" width="220">
+  <img src="https://github.com/user-attachments/assets/68c2d87c-f0b7-45c1-9fb7-9e523b259b92" alt="Mobile View 3" width="210">
 </div>
